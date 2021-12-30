@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\Reverse Each Word\bin\Debug\net6.0\ReversingString.exe
+C:\Users\Lenovo\Desktop\Reverse Each Word\bin\Debug\net6.0\ReversingString.deps.json
+C:\Users\Lenovo\Desktop\Reverse Each Word\bin\Debug\net6.0\ReversingString.runtimeconfig.json
+C:\Users\Lenovo\Desktop\Reverse Each Word\bin\Debug\net6.0\ReversingString.dll
+C:\Users\Lenovo\Desktop\Reverse Each Word\bin\Debug\net6.0\ref\ReversingString.dll
+C:\Users\Lenovo\Desktop\Reverse Each Word\bin\Debug\net6.0\ReversingString.pdb
+C:\Users\Lenovo\Desktop\Reverse Each Word\obj\Debug\net6.0\ReversingString.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Reverse Each Word\obj\Debug\net6.0\ReversingString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\Reverse Each Word\obj\Debug\net6.0\ReversingString.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Reverse Each Word\obj\Debug\net6.0\ReversingString.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Reverse Each Word\obj\Debug\net6.0\ReversingString.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Reverse Each Word\obj\Debug\net6.0\ReversingString.dll
+C:\Users\Lenovo\Desktop\Reverse Each Word\obj\Debug\net6.0\ref\ReversingString.dll
+C:\Users\Lenovo\Desktop\Reverse Each Word\obj\Debug\net6.0\ReversingString.pdb
+C:\Users\Lenovo\Desktop\Reverse Each Word\obj\Debug\net6.0\ReversingString.genruntimeconfig.cache
